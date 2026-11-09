@@ -4,4 +4,11 @@
 
 Sản phẩm đang trong quá trình phát triển và hoàn thiện. Bộ cài dành cho Windows 10/11 x64; lần biên dịch đầu cần Internet để tải các công cụ cần thiết.
 
-[Tải Agent 0.4.9 cho Windows](https://github.com/thamtrung151/agent-for-espstudio/releases/download/v0.4.9/TTESPStudio-Agent-0.4.9-win-x64.exe) · [Thông tin bản phát hành và checksum](https://github.com/thamtrung151/agent-for-espstudio/releases/tag/v0.4.9)
+[Tải Agent 0.7.0 cho Windows](https://github.com/thamtrung151/agent-for-espstudio/releases/download/v0.7.0/TTESPStudio-Agent-0.7.0-win-x64.exe) · [Thông tin bản phát hành và checksum](https://github.com/thamtrung151/agent-for-espstudio/releases/tag/v0.7.0)
+
+## Hướng dẫn và ví dụ
+
+Tài liệu dành cho ESPStudio 0.7.2, gồm các bài lập trình Blockly cơ bản và điều khiển robot bốn bánh mecanum bằng PS2.
+
+- [Hướng dẫn sử dụng PDF](https://github.com/thamtrung151/agent-for-espstudio/releases/download/guide-v0.7.2/TT_ESPStudio_Huong_Dan_Blockly_Mecanum.pdf): 18 trang với ảnh giao diện có màu.
+- [Gói 12 project mẫu](https://github.com/thamtrung151/agent-for-espstudio/releases/download/guide-v0.7.2/TT_ESPStudio_Project_Mau_Blockly.zip): các file JSON để nhập vào ESPStudio.
