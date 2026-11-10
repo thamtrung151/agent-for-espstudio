@@ -8,7 +8,7 @@ Sản phẩm đang trong quá trình phát triển và hoàn thiện. Bộ cài 
 
 ## Hướng dẫn và ví dụ
 
-Tài liệu dành cho ESPStudio 0.7.3, gồm các bài lập trình Blockly cơ bản và điều khiển robot bốn bánh mecanum bằng PS2.
+Tài liệu dành cho ESPStudio 0.7.8, gồm các bài lập trình Blockly cơ bản và điều khiển robot bốn bánh mecanum bằng PS2.
 
-- [Hướng dẫn sử dụng PDF](https://github.com/thamtrung151/agent-for-espstudio/releases/download/guide-v0.7.3/TT_ESPStudio_Huong_Dan_Blockly_Mecanum.pdf): 18 trang với ảnh giao diện có màu.
-- [Gói 12 project mẫu](https://github.com/thamtrung151/agent-for-espstudio/releases/download/guide-v0.7.3/TT_ESPStudio_Project_Mau_Blockly.zip): các file JSON để nhập vào ESPStudio.
+- [Hướng dẫn sử dụng PDF](https://github.com/thamtrung151/agent-for-espstudio/releases/download/guide-v0.7.8/TT_ESPStudio_Huong_Dan_Blockly_Mecanum.pdf): 19 trang với ảnh giao diện có màu.
+- [Gói 13 project mẫu](https://github.com/thamtrung151/agent-for-espstudio/releases/download/guide-v0.7.8/TT_ESPStudio_Project_Mau_Blockly.zip): các file JSON để nhập vào ESPStudio, gồm bài nháy LED GPIO47 cho Newmania V1.0.
